@@ -1,5 +1,4 @@
-# Movie-Data-Analysis-Project
-Python project to analyze 30,000 movies from 1980–2020 using EDA and visualization
+
 # 🎬 Movie Data Analysis Project (1980–2020)
 
 Welcome to a Python-based data analysis project where we explore 30,000 movies released between 1980 and 2020.
